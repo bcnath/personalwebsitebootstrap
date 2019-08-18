@@ -20,3 +20,10 @@ html{
     width: 100% ;
     max-height: 600px !important;
 }
+
+@media (max-width: 575.98px) {
+	.card-deck{
+	display: flex;
+	padding-left: 4%;
+	padding-right: 4%;
+}}
